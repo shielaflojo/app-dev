@@ -7,3 +7,4 @@ Spiderman: No Way Home
 | Zendaya | MJ |
 | Marisa | Aunt May |
 | Jacob | Ned |
+| Angourie | Betty |
